@@ -9,7 +9,7 @@
 
 #custom files
 *.tlog
-space-ai.VC*
+space-ai.VC.*
 
 # Build results
 
